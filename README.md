@@ -51,7 +51,7 @@ My life is BBB . European authorities fined Google a record $65000 on Wednesday 
 
 3. In some texts entity such as"double X" may occur. In this case, the word double acts as adjective followed by X as noun. To detect such texts along with their corresponding parts of speech spacy Token Matcher is used. Again, after detection of entity few lines of logical code will translate "double X" to "XX".
 
-<b>The logical code for all functions in this package could be found in file /spoken@written/spoken2written.py of this repository</b>
+<b>The logical code for all functions in this package could be found in file spoken@written/spoken@written/spoken2written.py of this repository</b>
 
 <h1>Bugs/ Errors</h1>
 Please ensure that you have installed dependency en_core_web_sm of spacy before importing package written2spoken. If you find any bugs/errors in the usage of above code, please raise an issue through <a href="https://github.com/HerambVD/spoken2written">GitHub</a>. Else, send an email to <a href="mailto:heramb1711@gmail.com">heramb1711@gmail.com</a>.
