@@ -1,0 +1,1 @@
+from .spoken2written import TextTranslator

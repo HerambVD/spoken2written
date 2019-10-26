@@ -1,0 +1,9 @@
+README.md
+setup.py
+spoken2written/__init__.py
+spoken2written/spoken2written.py
+spoken2written.egg-info/PKG-INFO
+spoken2written.egg-info/SOURCES.txt
+spoken2written.egg-info/dependency_links.txt
+spoken2written.egg-info/requires.txt
+spoken2written.egg-info/top_level.txt
