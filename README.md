@@ -54,4 +54,4 @@ My life is BBB . European authorities fined Google a record $65000 on Wednesday 
 <b>The logical code for all functions in this package could be found in file spoken2written/spoken2written/spoken2written.py of this repository</b>
 
 <h1>Bugs/ Errors</h1>
-Please ensure that you have installed dependency en_core_web_sm of spacy before importing package written2spoken. If you find any bugs/errors in the usage of above code, please raise an issue through <a href="https://github.com/HerambVD/spoken2written">GitHub</a>. Else, send an email to <a href="mailto:heramb1711@gmail.com">heramb1711@gmail.com</a>.
+Please ensure that you have installed dependency en_core_web_sm of spacy before importing package spoken2written. If you find any bugs/errors in the usage of above code, please raise an issue through <a href="https://github.com/HerambVD/spoken2written">GitHub</a>. Else, send an email to <a href="mailto:heramb1711@gmail.com">heramb1711@gmail.com</a>.
